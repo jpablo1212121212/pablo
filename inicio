@@ -1,0 +1,36 @@
+<body>
+    <header>
+        <div class="container">
+            <h1>CenSisOper</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="acerca.html">Acerca de</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="banner">
+        <div class="container">
+            <h2>Bienvenido a CenSisOper</h2>
+            <p>Somos líderes en soluciones tecnológicas para empresas. Descubre cómo podemos ayudarte a optimizar tu negocio.</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>Nuestra Misión</h2>
+            <p>En CenSisOper nos dedicamos a proporcionar soluciones avanzadas en Tecnologías de la Información (TI), diseñadas para mejorar la eficiencia y la competitividad de nuestros clientes. Con un enfoque en la innovación y la calidad, nos esforzamos por ser socios estratégicos de confianza en la transformación digital.</p>
+            <p>Desde nuestra fundación en 2005, hemos ayudado a numerosas empresas a alcanzar sus objetivos tecnológicos mediante servicios de consultoría, desarrollo de software a medida y gestión de infraestructuras tecnológicas.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 CenSisOper. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
